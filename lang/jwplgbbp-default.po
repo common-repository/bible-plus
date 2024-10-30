@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-01-15 20:12-0500\n"
+"PO-Revision-Date: 2017-01-15 20:13-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: assets/html/admin-footer.html.php:1
+msgid "Contact"
+msgstr ""
+
+#: assets/html/admin-footer.html.php:2
+msgid "Website"
+msgstr ""
+
+#: assets/html/admin-footer.html.php:2
+msgid "Bible-Plus.Org"
+msgstr ""
+
+#: assets/html/admin-footer.html.php:3
+msgid "Email"
+msgstr ""
+
+#: assets/html/admin-footer.html.php:4
+msgid "Bible Plus+ by"
+msgstr ""
+
+#: assets/html/admin-footer.html.php:4
+msgid "All rights reserved!"
+msgstr ""
+
+#: assets/html/admin-home.html.php:2
+msgid "Bible Plus+"
+msgstr ""
+
+#: assets/html/admin-home.html.php:4
+msgid "Thank you for using Bible Plus+"
+msgstr ""
+
+#: assets/html/admin-home.html.php:6
+msgid "How to use!"
+msgstr ""
+
+#: assets/html/admin-home.html.php:7
+msgid "Go to the DailyProverb menu item to set your Proverb of the day."
+msgstr ""
+
+#: assets/html/admin-home.html.php:8
+msgid ""
+"Place the following shortcodes in your pages, posts and text widgets to add "
+"the bible, or daily proverb to your site."
+msgstr ""
+
+#: assets/html/admin-home.html.php:9
+msgid "Bible Shortcode"
+msgstr ""
+
+#: assets/html/admin-home.html.php:11 assets/html/admin-home.html.php:28
+msgid "Available Attributes"
+msgstr ""
+
+#: assets/html/admin-home.html.php:13
+msgid "passage (bible passage which to show) : default Jn3:16"
+msgstr ""
+
+#: assets/html/admin-home.html.php:14 assets/html/admin-home.html.php:30
+msgid ""
+"version (desired version of the bible) : default KJV. Available versions can "
+"be found at <a href=\"https://wordpress.org/plugins/bible-plus/faq\" target="
+"\"_blank\">Bible Plus on WordPress</a>."
+msgstr ""
+
+#: assets/html/admin-home.html.php:15
+msgid "cnum (show chapter number) yes/no : default yes."
+msgstr ""
+
+#: assets/html/admin-home.html.php:16
+msgid "vnum (show verse number) yes/no : default yes."
+msgstr ""
+
+#: assets/html/admin-home.html.php:17
+msgid "vpl (show verses 1-verse-per-line) yes/no : default yes."
+msgstr ""
+
+#: assets/html/admin-home.html.php:20
+msgid "This Full Example Shortcode Will Produce The Following Result"
+msgstr ""
+
+#: assets/html/admin-home.html.php:22
+msgid "Result:"
+msgstr ""
+
+#: assets/html/admin-home.html.php:26
+msgid "Daily Proverb Shortcode"
+msgstr ""
+
+#: assets/html/vods.html.php:2
+msgid "Bible Plus+ | Proverbs For the Day"
+msgstr ""
+
+#: assets/html/vods.html.php:6 assets/html/vods.html.php:31
+msgid "Save Verses"
+msgstr ""
+
+#: assets/html/vods.html.php:12
+msgid "Day"
+msgstr ""
+
+#: assets/html/vods.html.php:13 inc/JWPLGBBP/bible.php:421
+msgid "Chapter"
+msgstr ""
+
+#: assets/html/vods.html.php:14
+msgid "Verse Number"
+msgstr ""
+
+#: assets/html/vods.html.php:20
+msgid "Day "
+msgstr ""
+
+#: assets/html/vods.html.php:21
+msgid "Chapter "
+msgstr ""
+
+#: assets/html/vods.html.php:23
+msgid "Verse# "
+msgstr ""
+
+#: inc/JWPLGBBP/admin.php:37
+msgid "Bible+"
+msgstr ""
+
+#: inc/JWPLGBBP/admin.php:39
+msgid "Daily"
+msgstr ""
+
+#: inc/JWPLGBBP/admin.php:39
+msgid "DailyProverb"
+msgstr ""
+
+#: inc/JWPLGBBP/bible.php:52
+msgid ""
+"Something went wrong with the bible. Please make sure that you are "
+"requesting a valid passage! If this problem presits please contact "
+"joshuawiecorek@outlook.com"
+msgstr ""
+
+#: inc/JWPLGBBP/proverbs.php:88
+msgid "Proverbs "
+msgstr ""

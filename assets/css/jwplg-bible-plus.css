@@ -1,0 +1,15 @@
+.bible-plus-verse-container span.bible-plus-verse {
+    padding-left: 7px;
+}
+
+.bible-plus-verse-container:first-child > span.bible-plus-verse {
+    padding-left: 0px;
+}
+
+.bible-plus-verse-container .bible-plus-verse > .bible-plus-verse-number {
+    font-weight: 900;
+}
+
+.bible-plus-passage-reference {
+    text-align: right;
+}
